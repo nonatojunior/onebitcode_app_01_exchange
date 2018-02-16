@@ -1,24 +1,15 @@
-# README
+# Exchange
+O aplicativo *Exchange* é um conversor de moedas que tem como objetivo, proporcionar aos usuários uma experiência única na conversão de moedas.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simples e prático, este aplicativo irá lhe auxiliar no dia a dia sempre que hover a necessidade de converter um valor entre moedas.
 
-Things you may want to cover:
+Pensou em conversão de moedas, pensou no *Exchange*.
 
-* Ruby version
+Para acessar o aplicativo [clique aqui](https://bt-exchange.herokuapp.com/).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Tecnologias:
++ Ruby on Rails
++ Docker
++ Bootstrap
++ TDD
++ API [http://fixer.io/](http://fixer.io/)
